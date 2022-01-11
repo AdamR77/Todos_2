@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "spłata kursu",
+    "description": "spłata: pozostałe 10 rat po 430pln",
+    "done": false
+  },
+  {
+    "id": 2,
+    "title": "książka do nauki",
+    "description": "autor: Joel Grus. tytuł: Data science od podstaw, analiza danych w Pythonie."
+    "done": true
+  },
+  {
+    "id": 3,
+    "title": "zakup samochodu używanego",
+    "description": "rozpatrzenie ofert, negocjacje, zakup",
+    "done": false
+    }
+]
